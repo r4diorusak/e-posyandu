@@ -1,0 +1,64 @@
+
+
+.sidebar {
+   
+    box-shadow: 0 16px 38px -12px rgba(0,0,0,.56), 0 4px 25px 0 rgba(0,0,0,.12), 0 8px 10px -5px rgba(0,0,0,.2);
+}
+
+.modalc-body {
+    position: relative;
+   
+}
+
+.calloutc {
+    border-radius: 3px;
+    margin: 0 0 1px 0;
+    padding: 20px 10px 10px 10px;
+}
+
+.form-group {
+    margin-bottom: 25px;
+}
+
+.modal.modal-wide .modal-dialog {
+  width: 50%;
+}
+.modal.modal-wide2 .modal-dialog {
+  width: 20%;
+
+}
+.modal-wide .modal-body {
+  overflow-y: auto;
+}
+
+
+
+
+.info-box-number2 {
+    display: block;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.info-box2 {
+    display: block;
+    min-height: 90px;
+    background: #f4f4f4;
+    width: 100%;
+    box-shadow: 0 15px 15px rgba(0, 0, 0, 0.1);
+    border-radius: 0px;
+    margin-bottom: 15px;
+    background-image: url(images/bg.jpg);
+	background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.info-box-text2 {
+    display: block;
+    font-size: 18px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+
