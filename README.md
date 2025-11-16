@@ -305,6 +305,14 @@ e-posyandu/
 
 Proyek ini adalah hasil migrasi dari legacy PHP ke Laravel modern. Untuk kontribusi, silakan buat feature branch dan submit pull request.
 
+## Credits
+
+**Laravel Migration & Development by:**
+
+- **Khairul Adha**
+- Email: [r4dioz.88@gmail.com](mailto:r4dioz.88@gmail.com)
+- Website: [www.rainbowcodec.com](https://www.rainbowcodec.com)
+
 ## License
 
 Distributed under MIT License. See LICENSE file for details.
